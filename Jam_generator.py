@@ -5,3 +5,4 @@ UnitSize = int(input('Enter the unit size: '))
 BatchSize = Quantity*UnitSize
 def jam(r,size):
     return r*size
+print(jam(R,BatchSize))
