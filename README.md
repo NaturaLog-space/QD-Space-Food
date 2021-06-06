@@ -5,3 +5,5 @@ QD Space Food is bringing forth open source food to empower those who want to cr
 The new wave of coffee. Enjoy coffee as a chocolate bar
 ## Fresh Jam
 Accelerating the movement of nutritious raw food.
+## Recipe Generator
+Be part of the movement! A simple python recipe and batch handler.
