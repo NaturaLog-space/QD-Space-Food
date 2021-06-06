@@ -7,3 +7,8 @@ The new wave of coffee. Enjoy coffee as a chocolate bar
 Accelerating the movement of nutritious raw food.
 ## Recipe Generator
 Be part of the movement! A simple python recipe and batch handler.
+Basic recipe goes as follows:
+1 pound sugar
+1 pound strawberries
+1/2 pound freeze dried strawberries
+1/2 cup lemon juice
