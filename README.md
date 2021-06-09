@@ -4,7 +4,12 @@ Check out the shop: https://jamu.quarksy.space
 # Plans for the Future
 Quarksy makes all designs free and easy to be adopted by the world. Lets push the open source community to accelerate the world to the next phase.
 ## Mocha Chocolate
-The new wave of coffee. Enjoy coffee as a chocolate bar
+The new wave of coffee. Enjoy coffee as a chocolate bar.
+Transform your everyday chocolate into a mocha bar.
+Mix 1 cup chocolate or white chocolate
+2 Tbsp Instant coffee
+2 Tbsp Cocoa butter
+Temper to a bar of your desired shape.
 ## Fresh Jam
 ![Raw Strawberry Jam](https://github.com/NaturaLog-space/QD-Space-Food/blob/main/Adobe_Post_20210325_1359250.6425661188089541.png)
 Accelerating the movement of nutritious raw food.
