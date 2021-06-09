@@ -15,3 +15,9 @@ Basic recipe goes as follows:
 - 1 pound strawberries
 - 1/2 pound freeze dried strawberries
 - 1/2 cup lemon juice
+
+## Method 2 Jam
+Mix strawberries, lemon juice, and sugar
+Let sit for 24 hours or until strawberry solids float to the top
+Strain solids and add freeze dried strawberries
+
