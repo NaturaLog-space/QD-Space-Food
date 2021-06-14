@@ -26,3 +26,5 @@ Mix strawberries, lemon juice, and sugar
 Let sit for 24 hours or until strawberry solids float to the top
 Strain solids and add freeze dried strawberries
 
+## Commercialization Permission
+Recipe is free to use for non commercial purposes. Email naturalog.space@gmail.com for permission on commercial use of this project. Commercial use also agrees on spreading the open source project.
